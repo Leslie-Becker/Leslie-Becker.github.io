@@ -1,2 +1,2 @@
 # Leslie-Becker.github.io
-Professional portfolio of Learning &amp; Development Leader Leslie Becker
+Professional portfolio of Learning and Development Leader Leslie Becker
